@@ -52,7 +52,7 @@ Premium gün eynəkləri üçün Yaz Endirim Kampaniyası həyata keçirərək:
 
 ---
 
-## 🧠 Task 1 — Pre-Analiz
+## Task 1 — Pre-Analiz
 - Tarixi satış trendinin təhlili  
 - Mövcud (mağaza + website) və yeni (TrendYol, Amazon) kanalların müqayisəsi  
 - Yeni rəng kolleksiyası və influencer marketinqinin potensial təsiri  
