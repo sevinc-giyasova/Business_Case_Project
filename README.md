@@ -4,7 +4,7 @@ Premium gün eynəkləri (Sunglasses) üçün hazırlanan Yaz Endirim Kampaniyas
 
 ---
 
-## 🎯 Proyektin Məqsədi
+## Proyektin Məqsədi
 Premium gün eynəkləri üçün Yaz Endirim Kampaniyası həyata keçirərək:
 
 - Satış həcmini artırmaq  
@@ -14,7 +14,7 @@ Premium gün eynəkləri üçün Yaz Endirim Kampaniyası həyata keçirərək:
 
 ---
 
-## 🛍️ Məhsul Haqqında
+## Məhsul Haqqında
 - **Məhsul:** Premium Gün Eynəyi (Unisex Sunglasses)  
 - **Kateqoriya:** Moda / Aksesuar  
 - **Xüsusiyyətlər:** UV400 qoruma, anti-scratch şüşə, premium metal çərçivə  
@@ -25,7 +25,7 @@ Premium gün eynəkləri üçün Yaz Endirim Kampaniyası həyata keçirərək:
 
 ---
 
-## 📊 Tarixi Satış Məlumatları
+## Tarixi Satış Məlumatları
 | İl  | Satış (AZN) | Artım (AZN) | Artım Faizi |
 |-----|-------------|-------------|--------------|
 | 2021 | 120,000 | 10,000 | 9.1% |
@@ -35,7 +35,7 @@ Premium gün eynəkləri üçün Yaz Endirim Kampaniyası həyata keçirərək:
 
 ---
 
-## 🧮 Xərc Strukturu
+## Xərc Strukturu
 - Satış qiyməti: **2 AZN**  
 - Maya dəyəri: **0.9 AZN**  
 - Marketinq + OPEX: **0.45 AZN**  
@@ -43,7 +43,7 @@ Premium gün eynəkləri üçün Yaz Endirim Kampaniyası həyata keçirərək:
 
 ---
 
-## 📌 KPI-lar
+## KPI-lar
 - Satış artımı (%)  
 - ROI (Return on Investment)  
 - CTI (Cost-to-Income)  
@@ -59,7 +59,7 @@ Premium gün eynəkləri üçün Yaz Endirim Kampaniyası həyata keçirərək:
 
 ---
 
-## 📘 Task 2 — Ssenari Yaratmaq
+## Task 2 — Ssenari Yaratmaq
 
 Aşağıdakı 3 əsas ssenari üçün proqnozlar verilib:
 
@@ -74,7 +74,7 @@ Hər ssenari üçün aşağıdakılar hesablanıb:
 - ROI  
 - CTI  
 
-## 📈 Task 3 — Forecast & Cost-Benefit Analysis
+## Task 3 — Forecast & Cost-Benefit Analysis
 
 Hər ssenari üçün aşağıdakı metriklər analiz olunub:
 
